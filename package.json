@@ -1,0 +1,20 @@
+{
+  "name": "qrcode",
+  "version": "1.0.0",
+  "description": "This is a simple project which uses inquirer and QR-image npm packages in order to generate QR code images of the URL provided by the user",
+  "main": "newproj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmanyu-singhz/qr-code-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devmanyu-singhz/qr-code-generator/issues"
+  },
+  "homepage": "https://github.com/devmanyu-singhz/qr-code-generator#readme"
+}
