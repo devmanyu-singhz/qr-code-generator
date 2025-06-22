@@ -15,6 +15,10 @@ inquirer
     var qr_img = qr.image(url_val);
     qr_img.pipe(fs.createWriteStream('Generated_QR.png'));
 
+    fs.writeFile("user_input_URL", url_val, (err)=>{
+        if(err) throw err;
+        console.log("The file has been saved!");
+    })
   })
   .catch((error) => {
     if (error.isTtyError) {
