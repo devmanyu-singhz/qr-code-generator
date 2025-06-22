@@ -10,7 +10,11 @@ inquirer
     name: "url"
   }])
   .then((answers) => {
-    console.log(answers.url);
+    const url_val = answers.url;
+
+    var qr_img = qr.image(url_val);
+    qr_img.pipe(fs.createWriteStream('Generated_QR.png'));
+
   })
   .catch((error) => {
     if (error.isTtyError) {
