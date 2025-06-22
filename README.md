@@ -1,5 +1,6 @@
 # qr-code-generator
 This is a simple project which uses inquirer and qr-image npm packages in order to generate QR code images of the URL provided by the user
+Author - Abhimanyu Singh
 
 ## Features
 
@@ -28,11 +29,26 @@ Follow these steps to get the QR Code Image Generator up and running on your loc
    ```bash
         git clone https://github.com/yourusername/qr-code-generator.git
 
-2. - Navigate into the project folder:
+2. Navigate into the project folder:
+   ```bash
         cd qr-code-generator
-- Install the required dependencies:
-npm install
-UsageStart the application by running:
+
+3. Install the required dependencies:
+   ```bash
+        npm install
+
+### Usage
+
+Run the app with:
+   ```bash
+#         node newproj.js
+
+# Then follow the on-screen prompts to input the text. A PNG file named qr.png will be generated in the project directory.
+
+
+
+# this project is still a prototype and changes are still being made
+
 
 
 
