@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/devmanyu-singhz/qr-code-generator/issues"
   },
-  "homepage": "https://github.com/devmanyu-singhz/qr-code-generator#readme"
+  "homepage": "https://github.com/devmanyu-singhz/qr-code-generator#readme",
+  "dependencies": {
+    "inquirer": "^12.6.3"
+  }
 }
