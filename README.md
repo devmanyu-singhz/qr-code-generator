@@ -47,7 +47,7 @@ Run the app with:
 Then follow the on-screen prompts to input the text. A PNG file named qr.png will be generated in the project directory.
 
 
-this project is still a prototype and changes are still being made
+This project is still a prototype and changes are still being made
 
 
 
