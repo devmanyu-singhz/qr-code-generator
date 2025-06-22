@@ -1,5 +1,5 @@
 # qr-code-generator
-This is a simple project which uses inquirer and qr-image npm packages in order to generate QR code images of the URL provided by the user
+This is a simple project which uses inquirer and qr-image npm packages in order to generate QR code images of the URL provided by the user <br/>
 Author - Abhimanyu Singh
 
 ## Features
