@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a simple project which uses inquirer and QR-image npm packages in order to generate QR code images of the URL provided by the user",
   "main": "newproj.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
