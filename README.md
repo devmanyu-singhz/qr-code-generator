@@ -42,9 +42,9 @@ Follow these steps to get the QR Code Image Generator up and running on your loc
 Run the app with:
    ```bash
         node newproj.js
+   ```
 
 Then follow the on-screen prompts to input the text. A PNG file named qr.png will be generated in the project directory.
-
 
 
 this project is still a prototype and changes are still being made
